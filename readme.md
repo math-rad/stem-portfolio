@@ -1,5 +1,5 @@
 # STEM Portfolio
-Welcome to my STEM portfolio. Here is a showcase of all my major projects on desmos and/or for programming these past years in highschool.
+Welcome to my STEM portfolio. Here is a showcase of all my major projects on desmos these past years in highschool. ALL of these projects were made in the 2D graphing calculator for desmos, or used the 3D calc WITH THE CAVEAT OF THAT IT WOULD ENABLE ME TO MAKE USE OF SHADER TECH(see desmos beta3d), NOT TO RENDER 3D SURFACES. Only one image here uses the 3D calculator to render a 3D surface, which was the last image from my shader animations section, and that used both shader tech and the ability to render 3D surfaces directly into the calculator. Otherwise, all "3D"-like things were a result of my math :D Most videos were made with the help of desmodder, a browser extension which supercharges desmos, and one feature offers the ability to render animations frame-by-frame and control the FPS. This compilation features virtually all my work, spanning from end of 2024 to now, 2026. I hope you enjoy :D
 
 # desmos art
 
@@ -56,6 +56,8 @@ Welcome to my STEM portfolio. Here is a showcase of all my major projects on des
 ##### attractors
 ![tinkerbell](media/tinkerbell-attr-anim.gif)
 ![tinkerbell](media/tinkerbell-attractor.png)
+
+##### other simulations
 <video src="media/tension-thing.mp4" autoplay loop muted playsinline width="600"></video>
 <video src="media/tension-but-alot.mp4" autoplay loop muted playsinline width="600"></video>
 ### fractals
